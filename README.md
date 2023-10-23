@@ -12,5 +12,5 @@ A small research work that assigns the probability a pitch was affected by dew p
         The initial notebook I looked at pitches in. You can see the correlation tables at the end
 - figures
         Figures
-- Reds.pdf
+- RedsWriteup.pdf
         Writeup
